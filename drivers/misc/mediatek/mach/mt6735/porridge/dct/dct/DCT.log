@@ -1,0 +1,9 @@
+GPIO_LCM_ID2_PIN
+
+Fail to gen code!
+GPIO_LCM_ID2_PIN
+variable name does not exist 
+Please Check /alps/mediatek/custom/.../kernel/dct/dct/codegen.dws and GPIO setting!
+
+Gencode GPIO Setting have existed invalidate variable name.
+
